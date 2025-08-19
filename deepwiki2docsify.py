@@ -3,6 +3,7 @@
 """
 DeepWiki to Docsify Converter 
 专门处理 DeepWiki 生成的在线页面，转换为 Docsify 项目
+Copyright (C) <2025-2028>  <darkathena@qq.com>
 """
 
 import os
